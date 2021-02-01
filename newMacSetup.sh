@@ -20,6 +20,8 @@ brew install --cask visual-studio-code
 brew install --cask iterm2
 # install postman
 brew install --cask postman
+# install figma
+brew install --cask figma
 # install rust
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 # install oh my zsh
